@@ -9,7 +9,7 @@ body{
     width: 920px;
     height: 40cm;
     padding: 20px;
-    margin-left: 200px;
+    margin: 0px auto;
     text-align: center;
     background: #274765;
     display: flex;
@@ -22,11 +22,6 @@ body{
     padding: 5px;
     background-color: rgb(245, 239, 189);
     border-radius: 10px;
-    
-}
-.foto-perfil{
-    margin: 20px;
-    border: 1px solid black;
 }
 .destaque{
     font-family:cursive;
@@ -40,7 +35,9 @@ body{
     width: 115px;
     height: 150px;
     padding: 5px;
-    margin: 0 auto;
+   
+    margin: 20px;
+    border: 1px solid black;
     border-radius: 10px; 
     
 }
@@ -51,10 +48,7 @@ body{
     background: #63CACE; 
      
 }
-footer{
-    
-   
-}
+
 p{
     font-size: 0.8em;
     padding: 5px;
