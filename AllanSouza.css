@@ -1,0 +1,107 @@
+body{
+    padding: 0px;
+    background: #3488a7;
+    display: inline-block;
+}
+.container{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em ;
+    width: 920px;
+    height: 40cm;
+    padding: 20px;
+    margin-left: 200px;
+    text-align: center;
+    background: #274765;
+    display: flex;
+    border-radius: 10px;
+  
+}
+.colunas{
+    width: 540px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(245, 239, 189);
+    border-radius: 10px;
+    
+}
+.foto-perfil{
+    margin: 20px;
+    border: 1px solid black;
+}
+.destaque{
+    font-family:cursive;
+    border: 1px solid   #3488a7;
+    border-radius: 10px;
+    margin: 1px;
+    padding: 0px;
+    text-align: center;
+}
+.foto-perfil{
+    width: 115px;
+    height: 150px;
+    padding: 5px;
+    margin: 0 auto;
+    border-radius: 10px; 
+    
+}
+
+.coluna-lateral{
+    width: 1cm;
+    border-radius: 10px;
+    background: #63CACE; 
+     
+}
+footer{
+    
+   
+}
+p{
+    font-size: 0.8em;
+    padding: 5px;
+    margin: 5px;
+    text-align: justify;
+
+}
+h5{
+    padding: 1px;
+    margin: 1px;
+}
+h4{
+    padding: 0px;
+    margin: 0px;
+}
+li a{
+    font-size: 0.8em;
+    margin:0px;
+    margin-top: 15px;
+    text-decoration: none;
+    text-align: justify;
+
+}
+
+.links a:link, a:visited { /*a:link, a:visited: COm isso eu to formatando tanto o estado de cor quanto o link*/
+    border: 1px solid#63CACE;
+    background-color: #63CACE;
+    border-radius: 10px;
+    color:  #274765;
+    
+}
+.links a:hover{
+    color:  rgb(245, 239, 189);
+    background: #3488a7;
+    padding: 1px;
+}
+.links a:active{
+    color:#63CACE;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+
+img{
+    width: 30px;
+    height: 30px;
+}
