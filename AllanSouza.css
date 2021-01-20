@@ -75,7 +75,6 @@ li a{
 
 .links a:link, a:visited { /*a:link, a:visited: COm isso eu to formatando tanto o estado de cor quanto o link*/
     border: 1px solid#63CACE;
-    background-color: #63CACE;
     border-radius: 10px;
     color:  #274765;
     
@@ -85,9 +84,7 @@ li a{
     background: #3488a7;
     padding: 1px;
 }
-.links a:active{
-    color:#63CACE;
-}
+
 li{
     list-style-type: none;
     display: inline-block;
